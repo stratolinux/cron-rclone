@@ -1,0 +1,1 @@
+*/2 * * * * root rclone ls remote:files/downloads >> /var/log/helsing.log
